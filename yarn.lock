@@ -5103,9 +5103,9 @@ eastasianwidth@^0.2.0:
   resolved "https://registry.yarnpkg.com/eastasianwidth/-/eastasianwidth-0.2.0.tgz#696ce2ec0aa0e6ea93a397ffcf24aa7840c827cb"
   integrity sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==
 
-"echarts@https://github.com/thingsboard/echarts/archive/5.5.0-TB.tar.gz":
+"echarts@https://github.com/SolfinityPL/echarts/archive/5.5.0-TB.tar.gz":
   version "5.5.0-TB"
-  resolved "https://github.com/thingsboard/echarts/archive/5.5.0-TB.tar.gz#0b707b5cd2ae4699e9ced8b07ca49cb70189ae2a"
+  resolved "https://github.com/SolfinityPL/echarts/archive/5.5.0-TB.tar.gz#0b707b5cd2ae4699e9ced8b07ca49cb70189ae2a"
   dependencies:
     tslib "2.3.0"
     zrender "5.5.0"
@@ -7714,9 +7714,9 @@ ngx-drag-drop@^18.0.2:
   dependencies:
     tslib "^2.3.0"
 
-"ngx-flowchart@https://github.com/thingsboard/ngx-flowchart.git#release/3.0.0":
+"ngx-flowchart@https://github.com/SolfinityPL/ngx-flowchart.git#release/3.0.0":
   version "3.0.0"
-  resolved "https://github.com/thingsboard/ngx-flowchart.git#0160a1356129c2a3d4dcf7e064e4ba0a39ff668d"
+  resolved "https://github.com/SolfinityPL/ngx-flowchart.git#0160a1356129c2a3d4dcf7e064e4ba0a39ff668d"
   dependencies:
     tslib "^2.3.0"
 
@@ -9769,9 +9769,9 @@ thingies@^1.20.0:
   resolved "https://registry.yarnpkg.com/thingies/-/thingies-1.21.0.tgz#e80fbe58fd6fdaaab8fad9b67bd0a5c943c445c1"
   integrity sha512-hsqsJsFMsV+aD4s3CWKk85ep/3I9XzYV/IXaSouJMYIoDlgyi11cBhsqYe9/geRfB0YIikBQg6raRaM+nIMP9g==
 
-"thingsboard@https://github.com/thingsboard/thingsboard-ui-types.git#release/4.0":
+"thingsboard@https://github.com/SolfinityPL/thingsboard-ui-types.git#release/4.0":
   version "4.0.0"
-  resolved "https://github.com/thingsboard/thingsboard-ui-types.git#b895c311874e05b3145b1362c8ff1a63f48632ab"
+  resolved "https://github.com/SolfinityPL/thingsboard-ui-types.git#b895c311874e05b3145b1362c8ff1a63f48632ab"
   dependencies:
     "@angular/animations" "18.2.13"
     "@angular/cdk" "18.2.14"
@@ -9806,7 +9806,7 @@ thingies@^1.20.0:
     ngx-clipboard "^16.0.0"
     ngx-daterangepicker-material "^6.0.4"
     ngx-drag-drop "^18.0.2"
-    ngx-flowchart "https://github.com/thingsboard/ngx-flowchart.git#release/3.0.0"
+    ngx-flowchart "https://github.com/SolfinityPL/ngx-flowchart.git#release/3.0.0"
     ngx-hm-carousel "^18.0.0"
     ngx-markdown "^18.1.0"
     ngx-sharebuttons "^15.0.6"
